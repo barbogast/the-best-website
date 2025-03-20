@@ -1,0 +1,46 @@
+body{
+    color:#07170e;
+    background-color: rgba(155, 255, 194, 0.98);
+    font-family: Times new Roman;  
+    text-align: center;
+}
+
+p {
+    font-size:20px;
+}
+
+li{
+    padding-bottom: 10px;
+    font-size:10px;
+}
+
+h1 {
+    color: rgb(1, 149, 18);
+}
+
+h2 {
+    padding-top: 45px;
+}
+ul{
+    text-align: left;
+}
+
+div.text{
+    background-color: rgba(223, 255, 237, 0.96);
+    
+}
+div.media{
+    display:flex;
+    flex-direction:row;
+    align-items: flex-start;
+}
+
+div.media-elements{
+    padding:10px;
+    
+}
+
+
+
+    
+    
